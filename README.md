@@ -56,6 +56,7 @@ project-root/
       EtudiantDao.php
       FiliereDao.php
   views/
+  
     layout.php
     etudiant/
       index.php
