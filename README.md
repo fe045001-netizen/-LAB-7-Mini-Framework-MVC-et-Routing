@@ -19,7 +19,7 @@ Journalisation (logs)
 
 Base de données utilisée : gestion_etudiants_pdo
 
-🛠 Prérequis
+# Prérequis
 
 PHP 7.x (CLI + serveur interne activé)
 
