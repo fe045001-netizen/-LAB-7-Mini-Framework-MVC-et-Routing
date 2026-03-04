@@ -32,3 +32,32 @@ Navigateur moderne
 Éditeur de code (IntelliJ / PHPStorm / VS Code)
 
 Notions : POO, PDO, MVC, HTTP
+# Structure du projet
+project-root/
+  public/
+    index.php
+  src/
+    Container/
+      AppFactory.php
+    Controller/
+      BaseController.php
+      EtudiantController.php
+    Core/
+      Router.php
+      Request.php
+      Response.php
+      View.php
+    Dao/
+      DBConnection.php
+      Logger.php
+      EtudiantDao.php
+      FiliereDao.php
+  views/
+    layout.php
+    etudiant/
+      index.php
+      create.php
+      edit.php
+      show.php
+  logs/
+  test_routes.md
