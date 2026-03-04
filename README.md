@@ -35,9 +35,10 @@ Notions : POO, PDO, MVC, HTTP
 # Structure du projet
 project-root/
   public/
-
+  
     index.php
   src/
+  
     Container/
     
       AppFactory.php
