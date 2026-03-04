@@ -1,5 +1,5 @@
 # LAB 7 — Mini-Framework MVC et Routing
-   Description du projet
+  # Description du projet
 
 Ce projet consiste à développer un mini-framework MVC en PHP 7 intégrant :
 
